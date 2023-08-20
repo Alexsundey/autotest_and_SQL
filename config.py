@@ -1,0 +1,5 @@
+URL = "https://c5b21966-3058-4bf2-a247-060f1f544306.serverhub.praktikum-services.ru"
+CREATE_ORDERS = "/api/v1/orders"
+GET_ORDERS = "/v1/orders/track?t="
+CREATE_COURIER = "/api/v1/courier"
+LOGIN_COURERS = "/api/v1/courier/login"
